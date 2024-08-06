@@ -6,5 +6,5 @@ int main()
 {
     printf("main\n");
     one();
-    printf("This line was done on github.com TRY 7\n");
+    printf("This line was done on github.com TRY 8\n");
 }
