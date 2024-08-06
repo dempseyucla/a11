@@ -1,6 +1,1 @@
-From github.com:dempseyucla/a11
-   77c7a1a..502141b  main       -> a11/main
-Updating 77c7a1a..502141b
-Fast-forward
- a11.c | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+Already up to date.
