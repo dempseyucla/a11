@@ -2,5 +2,5 @@
 
 int one()
 {
-    printf("one GITHUB 7\n");
+    printf("one GITHUB 8\n");
 }
