@@ -6,5 +6,5 @@ int main()
 {
     printf("main\n");
     one();
-    printf("This line was done on gittreesoft abcdef\n");
+    printf("This line was done on GITHUB 1\n");
 }
