@@ -9,5 +9,5 @@ int main()
     one();
     two();
     printf("This line was done on GITHUB 15\n");
-    printf("IT'S PEOPLE!!");
+    printf("IT'S PEOPLE!! TWO");
 }
